@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite hostname="jasmbhat-mac" name="com.jasmeet.metrics.test.MetricsTest" tests="4" failures="0" timestamp="10 Sep 2013 03:36:07 GMT" time="1.746" errors="0">
-  <testcase name="testGetMetrics" time="1.647" classname="com.jasmeet.metrics.test.MetricsTest"/>
-  <testcase name="testGetStatus" time="0.011" classname="com.jasmeet.metrics.test.MetricsTest"/>
-  <testcase name="testGetVMMetrics" time="0.02" classname="com.jasmeet.metrics.test.MetricsTest"/>
-  <testcase name="testStoreMetrics" time="0.051" classname="com.jasmeet.metrics.test.MetricsTest"/>
-</testsuite>
