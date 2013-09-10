@@ -29,7 +29,7 @@
 
 
 ******Run and Test*********
--pull the project
+-pull the project as "git clone https://github.com/bjasmeet/ebay-interview.git"
 -to create the war run "mvn clean install -DskipTests=true" from the project directory
 -deploy the "ebay-interview.war" from the target directory to "<TOMCAT_HOME>/webapps/" directory
 -You can view the wadl service definition at "http://localhost:8080/ebay-interview/services/interview?_wadl&_type=xml"
